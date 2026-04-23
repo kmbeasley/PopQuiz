@@ -20,6 +20,7 @@ if (Number.isNaN(question1Answer)) {
   score += 1;
 }
 
+//Question 2
 const question2Input = promt(`Choose red:
     [1] Blue
     [2] Red
@@ -39,6 +40,7 @@ if (Number.isNaN(question2Answer)) {
   score += 1;
 }
 
+//Question 3
 const question3Input = promt(`Choose Summer:
     [1] Summer
     [2] Winter
